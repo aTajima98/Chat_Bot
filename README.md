@@ -79,6 +79,9 @@
   - python ChatBot_pingpong.py  を実行
 
 ## 実行画面
+![run](img/run.jpg)
+
+![chat](img/chat.jpg)
 
 ## 補足
 - 交叉や突然変異は，classes.pyのundx()関数やmutation()関数に記述している．
