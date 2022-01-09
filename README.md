@@ -80,7 +80,7 @@
 
 ## 実行画面
 ![run](img/run.jpg)
-
+---
 ![chat](img/chat.jpg)
 
 ## 補足
